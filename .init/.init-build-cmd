@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/analytics-dashboard-suite-1508-1522/social_dashboard_frontend"
+}

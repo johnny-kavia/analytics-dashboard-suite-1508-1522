@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/analytics-dashboard-suite-1508-1522/social_dashboard_frontend"
+}
